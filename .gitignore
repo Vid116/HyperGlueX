@@ -37,3 +37,7 @@ env/
 # Misc
 *.tmp
 *.temp
+
+# Claude
+claude.md
+*.claude
